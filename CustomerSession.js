@@ -9,25 +9,11 @@ class CustomerSessionEvent {
 }
 
 const orderOptions = {
-  2: "Burger",
-  3: "Pizza",
-  4: "Lasagna",
-  5: "Fries",
-  6: "Truffles",
-  7: "Hot Dogs",
-  8: "Ice Cream",
-  9: "Pancakes",
-  10: "Ramen",
-  11: "Sharwarma",
-  12: "Steak",
-  13: "Meatpie",
-  14: "Sandwich",
-  15: "Toast",
-  16: "Fish Cakes",
-  17: "Bread",
-  18: "Sushi",
-  19: "Wine",
-  20: "Beer"
+  2: "Sharwarma",
+  3: "Rice",
+  4: "Beans",
+  5: "Spagetti",
+  6: "Porrigde",
 };
 
 const commandOptions = {
